@@ -9,6 +9,7 @@ public class TestClass {
       System.out.println("this is my test5");
 		// Merging the code of the branch Defect2
 		// Merging the code of the branch Defect2 to the Master branch by the team lead
+		// Merging the code of the branch Defect1 to the Master branch by the team lead
 	}
 
 }
